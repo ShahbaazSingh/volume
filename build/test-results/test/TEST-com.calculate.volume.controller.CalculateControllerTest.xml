@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.calculate.volume.controller.CalculateControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-01T21:39:51" hostname="BAAZ" time="0.252">
+  <properties/>
+  <testcase name="testGetSphereVolume()" classname="com.calculate.volume.controller.CalculateControllerTest" time="0.252"/>
+  <system-out><![CDATA[2024-06-01T17:39:51.005-04:00  INFO 8720 --- [volume] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.calculate.volume.controller.CalculateControllerTest]: CalculateControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-06-01T17:39:51.021-04:00  INFO 8720 --- [volume] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.calculate.volume.VolumeApplication for test class com.calculate.volume.controller.CalculateControllerTest
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.0)
+
+2024-06-01T17:39:51.037-04:00  INFO 8720 --- [volume] [    Test worker] c.c.v.c.CalculateControllerTest          : Starting CalculateControllerTest using Java 17.0.2 with PID 8720 (started by herma in C:\Users\herma\OneDrive\Desktop\Development\volume)
+2024-06-01T17:39:51.037-04:00  INFO 8720 --- [volume] [    Test worker] c.c.v.c.CalculateControllerTest          : No active profile set, falling back to 1 default profile: "default"
+2024-06-01T17:39:51.369-04:00  INFO 8720 --- [volume] [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-06-01T17:39:51.370-04:00  INFO 8720 --- [volume] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-06-01T17:39:51.374-04:00  INFO 8720 --- [volume] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2024-06-01T17:39:51.390-04:00  INFO 8720 --- [volume] [    Test worker] c.c.v.c.CalculateControllerTest          : Started CalculateControllerTest in 0.366 seconds (process running for 2.601)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
